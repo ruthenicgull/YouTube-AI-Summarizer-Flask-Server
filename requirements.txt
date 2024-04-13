@@ -1,6 +1,7 @@
 youtube_transcript_api
-Flask=2.3.2
-Flask-Cors=4.0.0
+Flask==2.3.2
+Flask-Cors==4.0.0
 google-generativeai
 python-dotenv
 pathlib
+gunicorn==21.2.0
