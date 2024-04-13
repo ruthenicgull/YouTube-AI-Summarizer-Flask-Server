@@ -1,0 +1,6 @@
+youtube_transcript_api
+flask
+flask_cors
+google-generativeai
+python-dotenv
+pathlib
