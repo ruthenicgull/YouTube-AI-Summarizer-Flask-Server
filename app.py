@@ -58,3 +58,6 @@ def generate_gemini_content(transcript_text,prompt):
     response=model.generate_content(prompt+transcript_text)
     print(response.text)
     return response.text
+
+if __name__ == "__main__":
+    app.run(debug=True)
