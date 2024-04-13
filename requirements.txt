@@ -1,6 +1,6 @@
 youtube_transcript_api
-flask
-flask_cors
+Flask=2.3.2
+Flask-Cors=4.0.0
 google-generativeai
 python-dotenv
 pathlib
